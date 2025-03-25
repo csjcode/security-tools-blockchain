@@ -185,7 +185,7 @@ https://medium.com/@csjcode/auth-vs-auth-7f1b43e25c71
 ---------------------------------
 
 ## Solana Blockchain Security Resources
-
+By various authors and websites
 
 ### A Hitchhiker's Guide to Solana Program Security
 "This article explores common vulnerabilities that developers will encounter when creating Solana programs. We start with an introduction to the attacker mindset for exploiting Solana programs, covering topics such as Solana’s programming model, how Solana’s design is inherently attacker-controlled, potential attack vectors, and common mitigation strategies. Then, we cover a variety of different vulnerabilities, giving an explanation of the vulnerability as well as insecure and secure code examples where applicable."
