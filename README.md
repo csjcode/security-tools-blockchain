@@ -1,6 +1,6 @@
 # security-tools-blockchain
 
-### ZachXBT list
+### ZachXBT list of OSINT tools (with my added URLs, descriptions)
 
 ZachXBT @zachxbt -- investigator on X.com -- made a list of OSINT tools he uses for blockchain investigations, but only included name and a short description. This was posted in a telegram group.
 
