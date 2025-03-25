@@ -119,53 +119,66 @@ I write articles on a mix of Cloud Engineering/Architect/Dev, Solana Blockchain 
 
 ### How Hackers Stole $1.5 Billion Crypto in an AWS S3 Bucket Exploit
 Security researchers say Feb. 21 hack likely biggest in history. Technical details,…and solutions we can learn from it.
+
 https://medium.com/@csjcode/how-hackers-stole-1-5-billion-crypto-in-an-aws-s3-bucket-exploit-f0a0ce39ccd0
 
 ### 11 AWS S3 Security Leaks Hackers Look For
 Find your AWS S3 bucket security leaks before hackers do
+
 https://medium.com/@csjcode/11-aws-s3-security-leaks-hackers-look-for-26e5572fe08a
 
 ### Solana Token Quality Checklist
 Identify red flags and better quality tokens. Gain confidence about token quality.
+
 https://medium.com/solana-dev-tips/solana-token-quality-checklist-0a4391026d93
 
 ### 10 Ways to Store Secrets on AWS
 Ways to keep secrets on AWS + 4 non-AWS alternatives
+
 https://awstip.com/10-ways-to-store-secrets-on-aws-b7616d7db3ef
 
 ### CIA Triad in Cloud Security (Part 1: Confidentiality)
 Confidentiality controls for a more secure cloud platform using the CIA Triad model (checklist)
+
 https://medium.com/@csjcode/cia-triad-in-cloud-security-part-1-confidentiality-b7ec5dcf21a2
 
 ### CIA Triad in Cloud Security (Part 2: Integrity)
 Data Integrity controls for a more secure cloud platform using the CIA Triad model (checklist)
+
 https://systemweakness.com/cia-triad-in-cloud-security-part-2-integrity-6f60a2a79187
 
 ### CIA Triad in Cloud Security (Part 3: Availability)
 Availability tools and strategies for a more secure cloud platform using the CIA Triad model (checklist)
+
 https://aws.plainenglish.io/cia-triad-in-cloud-security-part-3-availability-97bb5f4af7fa
 
 ### AWS EC2 Security Best Practices w/CLI (checklist) —1 of 2
 23 EC2 security measures including CLI shortcuts for checking status for security — part 1 of 2
+
 https://medium.com/@csjcode/aws-ec2-security-best-practices-w-cli-checklist-1-of-2-31257a69555f
 
 ### AWS EC2 Security Best Practices w/CLI (checklist) — 2 of 2
 23 EC2 security measures including CLI commands for checking status for security — part 2 of 2
+
 https://medium.com/@csjcode/aws-ec2-security-best-practices-w-cli-checklist-2-of-2-928400751a18
 
 ### 14 AWS Security Microstacks
 Easy security-related stacks to secure your cloud platform
+
 https://aws.plainenglish.io/14-aws-security-microstacks-95d120d57089
 
 ### The Worst Cloud Software Disasters in History — Lessons Learned, Solutions
+
 https://medium.com/@csjcode/the-worst-cloud-software-disasters-in-history-lessons-learned-solutions-4d6d9f03073d
 
 ### AWS DynamoDB — SECURITY Audit/Best Practices
 Secure your DynamoDB databases with this best practices checklist
+
 https://medium.com/@csjcode/aws-dynamodb-security-audit-best-practices-f3b23232ec9c
 
 ### Auth vs. Auth
 Authentication (AuthN) vs. Authorization (AuthZ) demystified (w/checklist)
+
 https://medium.com/@csjcode/auth-vs-auth-7f1b43e25c71
 
 
