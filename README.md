@@ -182,14 +182,54 @@ Authentication (AuthN) vs. Authorization (AuthZ) demystified (w/checklist)
 https://medium.com/@csjcode/auth-vs-auth-7f1b43e25c71
 
 
+## Solana Blockchain Security Resources
 
 
+### A Hitchhiker's Guide to Solana Program Security
+"This article explores common vulnerabilities that developers will encounter when creating Solana programs. We start with an introduction to the attacker mindset for exploiting Solana programs, covering topics such as Solana’s programming model, how Solana’s design is inherently attacker-controlled, potential attack vectors, and common mitigation strategies. Then, we cover a variety of different vulnerabilities, giving an explanation of the vulnerability as well as insecure and secure code examples where applicable."
+
+https://www.helius.dev/blog/a-hitchhikers-guide-to-solana-program-security
+
+### Unsafe Rust
+"Rust has a second language hidden inside it that doesn’t enforce these memory safety guarantees: it’s called unsafe Rust and works just like regular Rust, but gives us extra superpowers."
+
+https://doc.rust-lang.org/book/ch20-01-unsafe-rust.html
+
+### Immunefi Explore: Bug Bounties (link filters for Solana, search for others)
+"Metrics are updated daily, with a 2-week delay after reports are resolved to maintain confidentiality."
+
+https://immunefi.com/bug-bounty/?filter=ecosystem%3DSolana
+
+### Sealevel Attacks (Solana)
+"Examples of common exploits unique to the Solana programming model and recommended idioms for avoiding these attacks using the Anchor framework."
+
+https://github.com/coral-xyz/sealevel-attacks
+
+### Solana: An Auditor's Introduction
+"A security focused introduction to Solana, exploring the underlying runtime environment, security boundaries, and implications. An important resource for all developers who want to write more secure code."
+
+https://osec.io/blog/2022-03-14-solana-security-intro
 
 
+### Subverting Web2 Authentication in Web3
+"Web3 authentication uses cryptographic signatures and wallets, but Web2 auth integrations can introduce hidden risks. We explore vulnerabilities like OAuth logic exploits, Supabase misconfigurations, and OAuth abuse in localhost setups."
+
+### Solana Multisig Security
+"What can teams do if their multisig signers are compromised? We explore Solana's transaction signing model and present a procedure for safe signing in the presence of malicious signers on Solana."
+
+https://osec.io/blog/2025-02-22-multisig-security
 
 
+### Solana Formal Verification: A Case Study
+"We present a novel framework for formal verification of Solana Anchor programs — and a case study application to the Squads multisig."
+
+https://osec.io/blog/2023-01-26-formally-verifying-solana-programs
 
 
+### Rust, Realloc, and References
+"Rust is safe.. right? Not if your dependencies are unsafe.. A deep dive into a subtle Solana SDK bug, Rust internals, and how we found it all."
+
+https://osec.io/blog/2022-12-09-rust-realloc-and-references
 
 
 
