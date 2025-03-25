@@ -2,7 +2,7 @@
 
 ### ZachXBT list of OSINT tools (with my added URLs, descriptions)
 
-ZachXBT @zachxbt -- investigator on X.com -- made a list of OSINT tools he uses for blockchain investigations, but only included name and a short description. This was posted in a telegram group.
+ZachXBT @zachxbt -- investigator on X.com -- made a list of OSINT tools he uses for blockchain investigations, but only included name and a short description. This was posted in a telegram group. From his message: "Note: I am not paid by these platforms to mention them and do not have referral links to share. I regularly have people ask me about tools I use in my investigations so here’s a comprehensive list: "
 
 I added urls for each, best I could figure out and extra info. I will probably add more tools here soon below the list (I know a few others). 
 
