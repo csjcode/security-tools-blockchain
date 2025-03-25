@@ -110,6 +110,7 @@ Intelx - db lookups
 
 ⚠️ Warning: Double-check all info here before using with anything private, wallet etc. There could be changes, updates or errors or changed/incorrect urls. Use these tools at your own risk. This is not an endorsement of any particular tool, app or site, some I have not used.
 
+---------------------------------
 
 ## 🥷🏻 Security Articles, author
 
@@ -181,6 +182,7 @@ Authentication (AuthN) vs. Authorization (AuthZ) demystified (w/checklist)
 
 https://medium.com/@csjcode/auth-vs-auth-7f1b43e25c71
 
+---------------------------------
 
 ## Solana Blockchain Security Resources
 
