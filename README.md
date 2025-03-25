@@ -10,7 +10,7 @@ I added urls for each, best I could figure out and extra info. I will probably a
 
 #### Cielo - Wallet Tracking (EVM, Bitcoin, Solana, Tron, etc)
 * Website: https://cielo.finance/
-* Description: Cielo provides wallet tracking across multiple blockchains like EVM, Bitcoin, Solana, and Tron. The official site offers access to their web app and documentation.
+* Description: Cielo provides wallet tracking across multiple blockchains like EVM, Bitcoin, Solana, and Tron. 
 
 #### TRM - Create graphs for addresses/transactions
 * Website: https://www.trmlabs.com/
@@ -18,30 +18,30 @@ I added urls for each, best I could figure out and extra info. I will probably a
 
 #### MetaSuites - Chrome extension that adds additional data on block explorers
 * Website: No official standalone website found. Available via Chrome Web Store. https://chromewebstore.google.com/
-* Description: MetaSuites is a Chrome extension enhancing block explorers with additional data. The Chrome Web Store is the primary distribution point.
+* Description: MetaSuites is a Chrome extension enhancing block explorers with additional data. The Chrome Web Store is believed to be the primary distribution point.
 
 #### OSINT Industries - email/username/phone lookups
 * Website: https://osint.industries/
-* Description: OSINT Industries provides lookup services for emails, usernames, and phone numbers. This is their official site, offering access to their tools.
+* Description: OSINT Industries provides lookup services for emails, usernames, and phone numbers. 
 
 #### LeakPeek - db lookups
 * Website: https://leakpeek.com/
-* Description: LeakPeek is a service for database lookups, focusing on breach data. The provided link is their official website.
+* Description: LeakPeek is a service for database lookups, focusing on breach data. 
 
 #### Snusbase - db lookups
 * Website: https://snusbase.com/
-* Description: Snusbase offers database lookup services for breach and leaked data. This is their official website.
+* Description: Snusbase offers database lookup services for breach and leaked data.
 Intelx - db lookups
 * Website: https://intelx.io/
-* Description: Intelligence X provides database lookups for various data types, including emails and IPs. This is their official site.
+* Description: Intelligence X provides database lookups for various data types, including emails and IPs. 
 
 #### Spur - IP lookups
 * Website: https://spur.us/
-* Description: Spur provides IP intelligence and lookup services. The website is their primary online presence. No GitHub repository is associated with this commercial service, but they do have a GitHub organization for some open-source tools: https://github.com/spur-inc.
+* Description: Spur provides IP intelligence and lookup services. The website is their primary online presence.
 
 #### Cavalier (Hudson Rock) - Infostealer lookups
 * Website: https://cavalier.hudsonrock.com/
-* Description: Cavalier by Hudson Rock provides infostealer lookup services to check for compromised credentials. This is the official site for their tool.
+* Description: Cavalier by Hudson Rock provides infostealer lookup services to check for compromised credentials. 
 
 #### Impersonator - Chrome extension to spoof login to dApps
 * Chrome Web Store Link:  https://chromewebstore.google.com/
@@ -49,11 +49,11 @@ Intelx - db lookups
 
 #### MetaSleuth - Similar to TRM but intended for retail users
 * Website: https://metasleuth.io/
-* Description: MetaSleuth offers blockchain analytics tailored for retail users, similar to TRM but more accessible. This is their official site.
+* Description: MetaSleuth offers blockchain analytics tailored for retail users, similar to TRM but more accessible. 
 
 #### Arkham - Multichain block explorer, entity labels, create graphs, alerts
 * Website: https://intel.arkm.com/
-* Description: Arkham provides a multichain block explorer with entity labeling, graphing, and alert features. This is their official website.
+* Description: Arkham provides a multichain block explorer with entity labeling, graphing, and alert features.
 
 #### Obsidian - Create flow charts / diagrams
 * Website: https://obsidian.md/
@@ -61,7 +61,7 @@ Intelx - db lookups
 
 #### Wayback Machine - Archive web pages
 * Website: https://archive.org/web/
-* Description: The Wayback Machine by the Internet Archive allows archiving and viewing historical web pages. This is the official access point.
+* Description: The Wayback Machine by the Internet Archive allows archiving and viewing historical web pages. 
 
 #### Archive Today - Archive web pages
 * Website: https://archive.today/
@@ -70,31 +70,31 @@ Intelx - db lookups
 #### Etherscan/Solscan - Block explorer for EVM / Solana
 * Etherscan Website: https://etherscan.io/
 * Solscan Website: https://solscan.io/
-* Description: Etherscan is the leading block explorer for EVM chains, while Solscan serves Solana. These are their official sites.
+* Description: Etherscan is the leading block explorer for EVM chains, while Solscan serves Solana. 
 
 #### Blockchair - Bitcoin block explorer
 * Website: https://blockchair.com/
-* Description: Blockchair is a versatile block explorer supporting Bitcoin and other chains. This is their official website.
+* Description: Blockchair is a versatile block explorer supporting Bitcoin and other chains. 
 
 #### Range - CCTP bridge explorer
 * Website: https://app.range.org/
-* Description: Range is a Circle CCTP (Cross-Chain Transfer Protocol) bridge explorer. This is their official app site.
+* Description: Range is a Circle CCTP (Cross-Chain Transfer Protocol) bridge explorer. 
 
 #### Pulsy - Bridge explorer aggregator
 * Website: https://explorer.pulsy.app/
-* Description: Pulsy aggregates data from blockchain bridges, serving as an explorer. This is their official site.
+* Description: Pulsy aggregates data from blockchain bridges, serving as an explorer. 
 
 #### Socketscan - EVM bridge explorer
 * Website: https://socketscan.io/
-* Description: Socketscan is an explorer for EVM bridge transactions. This is their official website.
+* Description: Socketscan is an explorer for EVM bridge transactions. 
 
 #### Dune - Analytics platform to query blockchain data
 * Website: https://dune.com/
-* Description: Dune is a blockchain analytics platform allowing custom queries. This is their official site.
+* Description: Dune is a blockchain analytics platform allowing custom queries.
 
 #### Mugetsu - X/Twitter username history & meme coin lookups
 * Website: unknown
-* Description: Mugetsu tracks X/Twitter username history and meme coin data. This is their official site.
+* Description: Mugetsu tracks X/Twitter username history and meme coin data. 
 
 #### TelegramDB Search Bot - Basic Telegram OSINT
 * Website: https://telegramdb.org/
@@ -102,11 +102,11 @@ Intelx - db lookups
 
 #### Discord[.]ID - Basic Discord account info
 * Website: https://discord.id/
-* Description: Discord.ID provides basic lookup for Discord account information using IDs. This is their official site.
+* Description: Discord.ID provides basic lookup for Discord account information using IDs. 
 
 #### CryptoTaxCalculator - Track PNL for an address
 * Website: https://cryptotaxcalculator.io/
-* Description: CryptoTaxCalculator tracks profit and loss (PNL) for crypto addresses and portfolios. This is their official website.
+* Description: CryptoTaxCalculator tracks profit and loss (PNL) for crypto addresses and portfolios. 
 
 ⚠️ Warning: Double-check all info here before using with anything private, wallet etc. There could be changes, updates or errors or changed/incorrect urls. Use these tools at your own risk. This is not an endorsement of any particular tool, app or site, some I have not used.
 
